@@ -1,4 +1,4 @@
-# Ex. No:1b 			Study of Client Server Chat Applications
+    # Ex. No:1b 			Study of Client Server Chat Applications
 
 ## Aim: 
 To perform a study on Client Server Chat Applications
@@ -76,7 +76,7 @@ Client-server chat applications are foundational to real-time communication over
 ## PROGRAM:
 
 ## CLIENT:
-```
+```python
 import socket
 
 
@@ -105,7 +105,7 @@ if __name__ == '__main__':
 ```
 
 ## SERVER
-```
+```python
 import socket
 def server_program():
     # get the hostname
